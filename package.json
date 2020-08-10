@@ -1,0 +1,24 @@
+{
+  "name": "fitnessplanner",
+  "version": "1.0.0",
+  "description": "Workout and fitness generator.",
+  "main": "fitServer.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fitness",
+    "workout",
+    "all",
+    "that",
+    "stuff",
+    "lol"
+  ],
+  "author": "Christopher Goldsmith",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.0"
+  }
+}
